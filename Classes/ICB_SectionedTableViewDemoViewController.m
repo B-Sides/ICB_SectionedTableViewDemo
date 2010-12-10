@@ -3,7 +3,7 @@
 //  ICB_SectionedTableViewDemo
 //
 //  Created by Matt Tuzzolo on 12/10/10.
-//  Copyright 2010 Regulars LLC. All rights reserved.
+//  Copyright 2010 ELC Technologies. All rights reserved.
 //
 
 #import "ICB_SectionedTableViewDemoViewController.h"
