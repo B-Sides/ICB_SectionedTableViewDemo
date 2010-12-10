@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>description</key>
+		<string>Jeff Hawkins, the high-tech success story behind PalmPilots and the Redwood Neuroscience Institute, does a lot of thinking about thinking. In On Intelligence Hawkins juxtaposes his two loves--computers and brains--to examine the real future of artificial intelligence. </string>
+		<key>title</key>
+		<string>On Intelligence</string>
+		<key>author</key>
+		<string>Jeff Hawkins</string>
+	</dict>
+	<dict>
+		<key>description</key>
+		<string>The most famous of Jack Kerouac&apos;s works, is not only the soul of the Beat movement and literature, but one of the most important novels of the century. Like nearly all of Kerouac&apos;s writing, On The Road is thinly fictionalized autobiography, filled with a cast made of Kerouac&apos;s real life friends, lovers, and fellow travelers.</string>
+		<key>title</key>
+		<string>On The Road</string>
+		<key>author</key>
+		<string>Jack Kerouac</string>
+	</dict>
+	<dict>
+		<key>description</key>
+		<string>Winner of the Turner Tomorrow Fellowship, a literary competition intended to foster works of fiction that present positive solutions to global problems, this book offers proof that good ideas do not necessarily equal good literature. Ishmael, a gorilla rescued from a traveling show who has learned to reason and communicate, uses these skills to educate himself in human history and culture.</string>
+		<key>title</key>
+		<string>Ishmael</string>
+		<key>author</key>
+		<string>Daniel Quinn</string>
+	</dict>
+	<dict>
+		<key>description</key>
+		<string>This Hugo and Nebula Award winner tells the sweeping tale of a desert planet called Arrakis, the focus of an intricate power struggle in a byzantine interstellar empire. Arrakis is the sole source of Melange, the &quot;spice of spices.&quot; Melange is necessary for interstellar travel and grants psychic powers and longevity, so whoever controls it wields great influence.</string>
+		<key>title</key>
+		<string>Dune</string>
+		<key>author</key>
+		<string>Frank Herbert</string>
+	</dict>
+</array>
+</plist>
